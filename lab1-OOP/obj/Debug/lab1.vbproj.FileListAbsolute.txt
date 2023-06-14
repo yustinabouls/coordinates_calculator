@@ -1,0 +1,11 @@
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\bin\Debug\lab1.xml
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\obj\Debug\lab1.vbprojAssemblyReference.cache
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\obj\Debug\lab1.frmAverageUnitsShipped.resources
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\obj\Debug\lab1.Resources.resources
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\obj\Debug\lab1.vbproj.GenerateResource.cache
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\obj\Debug\lab1.xml
+C:\Users\farag\Desktop\DC\Winter 2020 -SEMESTER#2\NETD-2202-10-NET DEVELOPMENT I\lab1\lab1\obj\Debug\lab1.pdb
